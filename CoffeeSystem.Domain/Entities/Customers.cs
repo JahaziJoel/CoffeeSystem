@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CoffeeSystem.Domain.Entities
 {
-    public class Customers: BaseEntity
+    public class Customers : BaseEntity
     {
         public string Name { get; set; }
         public string Address { get; set; }

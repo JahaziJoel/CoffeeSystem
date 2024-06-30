@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeSystem.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21caf19aa98778f4e025d9011c2d516443b6b372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ddb4ee7e59b11f823a286d96e56eeeb629cec7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeSystem.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeSystem.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

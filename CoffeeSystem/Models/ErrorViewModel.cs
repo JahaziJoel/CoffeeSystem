@@ -1,4 +1,4 @@
-namespace CoffeSystem.Models
+namespace CoffeeSystem.Models
 {
     public class ErrorViewModel
     {

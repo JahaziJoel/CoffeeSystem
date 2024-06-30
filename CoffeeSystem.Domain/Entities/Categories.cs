@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace CoffeeSystem.Domain.Entities
 {
-    public class Categories: BaseEntity
+    public class Categories : BaseEntity
     {
         public string Name { get; set; }
         public string Description { get; set; }
     }
+
 }

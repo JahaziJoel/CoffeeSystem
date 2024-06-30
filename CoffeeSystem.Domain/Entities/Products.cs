@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace CoffeeSystem.Domain.Entities
 {
-    public class Products: BaseEntity
+    public class Products : BaseEntity
     {
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
         public int CategoryId { get; set; }
-        public Categories Categories { get; set; }
+        public Categories Category { get; set; }
     }
+
 }
